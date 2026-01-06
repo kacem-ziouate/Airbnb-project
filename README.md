@@ -1,4 +1,4 @@
-# airbnb-market-analysis
+# Airbnb-Market-Analysis
 Data-Driven Analysis to Choose the Best Location for an Airbnb Property
 
 
